@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmmaB
-- 💞️ I’m interested in kpop aka BTS, desing, and coding
-- 🌱 I’m currently learning Java
+- 💞️ I’m interested in kpop [BTS], desing, and programming
+- 🌱 I’m currently working more on my backend skills with ecommerce websites...
 
 
 <!---
